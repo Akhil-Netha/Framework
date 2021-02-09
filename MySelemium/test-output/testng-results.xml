@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-09T03:02:06 IST" name="Default suite" finished-at="2021-02-09T03:02:22 IST" duration-ms="16271">
+    <groups>
+    </groups>
+    <test started-at="2021-02-09T03:02:06 IST" name="Default test" finished-at="2021-02-09T03:02:22 IST" duration-ms="16271">
+      <class name="com.testCase.InsuranceApplication.ErrorMessage">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.testCase.InsuranceApplication.ErrorMessage@6631f5ca]" started-at="2021-02-09T03:02:06 IST" name="SetUp" finished-at="2021-02-09T03:02:15 IST" duration-ms="8943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="EmptyCylinderErrormssg()[pri:0, instance:com.testCase.InsuranceApplication.ErrorMessage@6631f5ca]" started-at="2021-02-09T03:02:15 IST" name="EmptyCylinderErrormssg" finished-at="2021-02-09T03:02:17 IST" duration-ms="2174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmptyCylinderErrormssg -->
+        <test-method signature="ErrorMssg_MotorCycle_link()[pri:0, instance:com.testCase.InsuranceApplication.ErrorMessage@6631f5ca]" started-at="2021-02-09T03:02:17 IST" name="ErrorMssg_MotorCycle_link" finished-at="2021-02-09T03:02:21 IST" duration-ms="4349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ErrorMssg_MotorCycle_link -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.testCase.InsuranceApplication.ErrorMessage@6631f5ca]" started-at="2021-02-09T03:02:21 IST" name="TearDown" finished-at="2021-02-09T03:02:22 IST" duration-ms="738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.testCase.InsuranceApplication.ErrorMessage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
