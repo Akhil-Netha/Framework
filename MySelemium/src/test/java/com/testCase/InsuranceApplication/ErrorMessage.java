@@ -7,7 +7,7 @@ import com.pageApp.BaseClass;
 import com.pageApp.EnterVehicleData;
 import com.pageApp.HomePageObjects;
 
-public class ErrorMessage extends BaseClass {
+public class ErrorMessage extends BaseClass {  
 	@Test
 	public void ErrorMssg_MotorCycle_link() throws Exception {
 		
